@@ -141,4 +141,4 @@ acui-real-property-storyline/
 
 ## 作者
 
-**acui（阿崔）** — 10 年 不动产 marketing，前万科、现阿里，项目经历：良渚文化村、黄龙万科中心、玉鸟集、杭州天空之城、Y/OUR SPACE创业社区。
+**acui（阿崔）** — 10 年 不动产 marketing，前万科、现阿里
